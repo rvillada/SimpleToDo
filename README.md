@@ -18,9 +18,6 @@ The following **bonus** features are implemented:
 
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -32,7 +29,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was challenging to work through the tutorial while feeling like I could reimplement this on my own, because some of the steps lacked thorough explanation. My TA was very helpful in this regard, however. 
 
 ## License
 
